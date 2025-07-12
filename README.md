@@ -5,3 +5,4 @@ This Streamlit web app predicts the selling price of a used car based on details
 🚀 Live App
 https://car-price-prediction-c8iu4nejfmmigdxliu2kqo.streamlit.app/
 <img width="1891" height="859" alt="Screenshot 2025-07-12 200508" src="https://github.com/user-attachments/assets/45e1e205-c315-4acd-ac8b-2b96187678d2" />
+<img width="1906" height="321" alt="Screenshot 2025-07-12 200753" src="https://github.com/user-attachments/assets/54f23562-957d-4ef6-bb4b-cdfdfb86ce01" />
